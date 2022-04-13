@@ -1,11 +1,12 @@
 body{
     background-color: white;
+    color: darkgreen;
   }
   hr { border-style: none;
     border-top-style: dotted;
-    border-top-color: green;
+    border-top-color: darkgreen;
     border-width: 5px;
   width: 7%;
 }
-h1 {color: green;}
-h3 {color: green;}
+h1 {color: darkgreen;}
+h3 {color: darkgreen;}
