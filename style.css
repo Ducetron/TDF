@@ -1,9 +1,9 @@
 body{
-    background-color: aliceblue;
+    background-color: white;
   }
   hr { border-style: none;
     border-top-style: dotted;
-    border-top-color: white;
+    border-top-color: green;
     border-width: 5px;
   width: 7%;
 }
