@@ -13,9 +13,6 @@ body{
 h1 {color: darkgreen; }
 h3 {color: darkgreen;}
 a {color: green}
-div {text-align: center;}
-ul {display: center;}
-li {display: center;}
 .center {
   border-spacing: 10px;
   margin-left: auto;
