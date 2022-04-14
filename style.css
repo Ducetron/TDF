@@ -1,6 +1,6 @@
 body{
-    text-align: center;
-    background-color: white;
+  text-align: center;
+  background-color: white;
     color: darkgreen;
   }
   hr { border-style: none;
@@ -9,6 +9,14 @@ body{
     border-width: 5px;
   width: 7%;
 }
-h1 {color: darkgreen;}
+h1 {color: darkgreen; }
 h3 {color: darkgreen;}
 a {color: green}
+div {text-align: center;}
+ul {display: center;}
+li {display: center;}
+.center {
+  border-spacing: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
