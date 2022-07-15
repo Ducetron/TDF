@@ -73,7 +73,15 @@ h3 {
   border-radius: 100%;
   width: 200px;
 }
-a {color: green}
+a {
+  text-decoration: none;
+  color: #212529;
+}
+a:hover {
+  color: #024d02;
+  font-weight: 600;
+}
+
 .TDF {
   font-family: 'Ubuntu';
   color: white;
