@@ -267,7 +267,7 @@ img {
 
 @media (max-width: 576px) {
   .testimonial-image {
-    height: 275px;
+    height: 270px;
     border-radius: 25px;
     text-align: center;
   }
