@@ -231,15 +231,6 @@ img {
 .search:hover:not(:disabled):not([readonly])::-webkit-file-upload-button {
   background-color: #dde0e3;
 }
-.active {
-  border-radius: 10px;
-  font-family: Arial;
-  color: #024d02;
-  font-size: smaller;
-  background: #ffffff;
-  padding: 7px 10px 7px 10px;
-  text-decoration: none;
-}
 
 .nav-link {
   border-radius: 25px;
@@ -275,7 +266,7 @@ img {
 
 @media (max-width: 576px) {
   .testimonial-image {
-    height: 270px;
+    height: 265px;
     border-radius: 25px;
     text-align: center;
   }
@@ -283,7 +274,7 @@ img {
     height: 300px;
   }
   #carouselExampleControls {
-    padding: 0%;
+    padding: 2%;
     height: 320px;
     background-image: url("https://i.pinimg.com/originals/86/76/8c/86768cdc01025fe3225a461eaeb9e54c.jpg");
   }
